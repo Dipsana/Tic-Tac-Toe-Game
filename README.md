@@ -10,8 +10,8 @@ Features
     • Display of player turns, win, and tie conditions.
     
 Installation
-    1. Clone the repository: git clone https://github.com/your-username/tic-tac-toe-game.git
-    2. Navigate to the project directory: cd tic-tac-toe-game
+    1. Clone the repository: git clone https://github.com/Dipsana/Tic-Tac-Toe-Game.git
+    2. Navigate to the project directory: cd Tic-Tac-Toe-Game
     3. Open the index.html file in your web browser.
 
 Usage
