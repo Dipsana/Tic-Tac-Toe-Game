@@ -5,8 +5,11 @@ This project is a web-based Tic-Tac-Toe game where two players can compete by ma
 
 Features
     • Two-player interactive gameplay.
+    
     • Dark mode toggle for better user experience.
+    
     • Game reset functionality.
+    
     • Display of player turns, win, and tie conditions.
     
 Installation
